@@ -9,3 +9,4 @@ You are most welcome to contribute to this repository.
 ## Topics
 
 - [How Web works?](courses/how-web-works.md)
+- [HTTP Protocol & Status Codes](courses/http-protocol-and-status-codes.md)
