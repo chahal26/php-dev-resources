@@ -10,3 +10,4 @@ You are most welcome to contribute to this repository.
 
 - [How Web works?](courses/how-web-works.md)
 - [HTTP Protocol & Status Codes](courses/http-protocol-and-status-codes.md)
+- [Basics of HTML & CSS](courses/basics-of-html-css.md)
