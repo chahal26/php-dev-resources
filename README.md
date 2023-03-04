@@ -12,3 +12,4 @@ You are most welcome to contribute to this repository.
 - [HTTP Protocol & Status Codes](courses/http-protocol-and-status-codes.md)
 - [Basics of HTML & CSS](courses/basics-of-html-css.md)
 - [Introduction to Javascript](courses/introduction-to-js.md)
+- [Javascript HTML DOM](courses/javascript-html-dom.md)
