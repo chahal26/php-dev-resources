@@ -1,3 +1,10 @@
+# Introduction to Javascript
+
+JavaScript is a client-side scripting language as well as a server-side scripting language.
+This scripting language can be written into HTML pages (also could use CSS for styling the pages), and web browsers understand the page.
+
+This scripting language also acts like an object-oriented programming language but not a class-based object-oriented language.
+
 ## Best Resources to learn
 
 - [W3schools](https://www.w3schools.com/js/)
@@ -10,14 +17,14 @@
 - Lets say, we have an array
 
 ```js
-    let a = [2, 5, 8, 6];
+let a = [2, 5, 8, 6];
 ```
 
 How to add another integer `9` to array to get an output
 
 ```js
 //output
-[2, 5, 8, 6, 9]
+[2, 5, 8, 6, 9];
 ```
 
 - Write a JavaScript function to check whether an `input` is an array or not.
@@ -27,7 +34,7 @@ How to add another integer `9` to array to get an output
 let colors = ["Red", "Green", "White", "Black"];
 
 //output
-"Red,Green,White,Black"
+("Red,Green,White,Black");
 ```
 
 - Write a JavaScript function to get a random item from an array.
