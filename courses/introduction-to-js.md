@@ -9,13 +9,13 @@
 - Difference between `const`, `var`, & `let`.
 - Lets say, we have an array
 
-```
+```js
     let a = [2, 5, 8, 6];
 ```
 
 How to add another integer `9` to array to get an output
 
-```
+```js
 //output
 [2, 5, 8, 6, 9]
 ```
@@ -23,7 +23,7 @@ How to add another integer `9` to array to get an output
 - Write a JavaScript function to check whether an `input` is an array or not.
 - Write a simple JavaScript program to join all elements of the following array into a string.
 
-```
+```js
 let colors = ["Red", "Green", "White", "Black"];
 
 //output
